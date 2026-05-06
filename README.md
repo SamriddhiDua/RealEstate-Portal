@@ -157,13 +157,6 @@ Register a new account at:
 http://localhost/WT_PROJECT/register.php
 ```
 
-### 🛡️ Admin Access
-```
-URL:      http://localhost/WT_PROJECT/admin/index.php
-Email:    admin@realestate.com
-Password: admin123
-```
-
 > 🔒 It is strongly recommended to change the admin password before deploying to a live server.
 
 ---
